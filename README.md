@@ -3,7 +3,7 @@ Using Python to search the internet for queries sent by the user (and Canoo Inc.
 
 ## Setting up the project
 ### Prerequisites 
-- Make sure python version 3.
+- Make sure python version 3.x is installed in your system.
 - Ensure you have the latest version of Google Chrome installed.
 - Install selenium by running the requirements.txt file.
 
